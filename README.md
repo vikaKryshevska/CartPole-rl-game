@@ -26,5 +26,3 @@
 
 ```bash
 pip install gymnasium numpy matplotlib tqdm torch
-
-![example of execution](image.png)
