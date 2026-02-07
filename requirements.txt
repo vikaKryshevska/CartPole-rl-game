@@ -1,0 +1,5 @@
+ Python 3.12+
+- Packages:
+  - gymnasium, numpy, torch, matplotlib, tqdm
+- Optional (only if RENDER_HUMAN=True): pygame
+
